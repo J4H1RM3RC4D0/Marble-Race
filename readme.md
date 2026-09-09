@@ -1,6 +1,6 @@
 # Marble Race 
 
-A 3D marble race game built with Unity's Universal Render Pipeline(URP) template for the *Intro to Game Development* class  class code at the University. 
+A 3D marble race game built with Unity's Universal Render Pipeline(URP) template for the *Intro to Game Development* class at the University. 
  
 
 ## What it is
